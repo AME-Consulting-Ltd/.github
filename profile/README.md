@@ -26,9 +26,9 @@ We are also building digital tools to support our engineering operations. One su
 ### Featured Repository
 
 **[AME Timesheets](https://github.com/AME-Consulting-Ltd/AME-Timesheets)**  
-🛠 Backend: Python (Django)  
-🎨 Frontend: React  
-☁️ Deployed on AWS  
+Backend: Python (Django)  
+Frontend: React  
+Deployed on AWS  
 
 This project helps streamline timesheet management and resource tracking for our team.
 
